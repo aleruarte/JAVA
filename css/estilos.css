@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+
+h1{
+    color:black;
+    font-family: 'Permanent Marker', cursive;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(101, 101, 101);
+}
+form{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(101, 101, 101);
+    padding-top: 20px;
+    padding-bottom: 180px;
+}
+table{
+    
+    margin-top: 40px;
+    padding-left: auto;
+    padding-right: auto;
+   
+}
+.divTable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 180px;
+    margin-right: 180px;
+    background-color: rgb(101, 101, 101);
+}
+
+body{
+    background-color: rgb(101, 101, 101);
+}
+
+#pedido{
+  color: white;
+}
